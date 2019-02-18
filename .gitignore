@@ -1,3 +1,9 @@
-./node_modules/
+/node_modules/
 node_modules/
 node_modules
+package-lock.json
+assets/js/**
+assets/js/*
+.vscode/**
+.vscode/*
+.vscode

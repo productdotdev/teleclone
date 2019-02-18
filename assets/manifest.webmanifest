@@ -1,0 +1,9 @@
+{
+  "name": "Teleclone",
+  "short_name": "TC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Some Telegram clone"
+
+}
