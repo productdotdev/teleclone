@@ -8,7 +8,8 @@
     "build": "webpack --config=webpack.development.config.js",
     "prod": "webpack --config=webpack.development.config.js",
     "watch": "webpack --config=webpack.development.config.js -w",
-    "start": "node index.js"
+    "start": "node index.js",
+    "heroku-postbuild": "webpack --config=webpack.development.config.js"
   },
   "repository": {
     "type": "git",
